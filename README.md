@@ -1,0 +1,1 @@
+# lanchonete-lambda-create-auth-challenge
